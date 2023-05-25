@@ -3,10 +3,6 @@
 using namespace std;
 main()
 {
-    cout <<"NAMA : NURHASAN" << endl;
-    cout <<"NIM  : 32602200014" << endl;
-    cout <<"=====================" << endl;
-
     int l=0;
     for (int j = 0; j <= 10; j++)
     {
